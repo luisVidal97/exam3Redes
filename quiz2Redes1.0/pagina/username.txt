@@ -1,0 +1,5 @@
+jaiver,3000,30-11-2018,Caballo 1
+jaiver2,200,30-11-2018,Caballo 1
+jaiver2,2001,30-11-2018,Caballo 1
+jaiver2,3000,30-11-2018,Caballo 1
+LUCHO,2000,4:19,44   30/11/2018,Caballo 6
